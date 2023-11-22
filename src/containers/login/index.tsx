@@ -100,7 +100,7 @@ const Login: FC = () => {
                 />
               </Form.Item>
               <ReCAPTCHA
-                sitekey={`6LcEIRgpAAAAAI9sLJ-4WiM9vH3T_oAzaLgsO047`}
+                sitekey={`6LcEIRgpAAAAAB9b3ifL3AujJxFOUJP9N_0qqnfS`}
                 onChange={onChangeCaptcha}
               />
               ,
